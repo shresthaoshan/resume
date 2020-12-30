@@ -1,0 +1,25 @@
+.errorMessage {
+	width: 100%;
+	max-width: 500px;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: "Karla", sans-serif;
+	text-align: center;
+}
+
+.errorMessage p {
+	font-size: 15px;
+	line-height: 18px;
+	margin: 0;
+}
+
+p.refresh {
+	margin-top: 10px;
+	border: 1px solid rgb(230, 204, 12);
+	display: inline-block;
+	padding: 7.5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	user-select: none;
+	color: rgb(230, 204, 12);
+}
