@@ -1,13 +1,11 @@
+import Meta from "../components/Meta";
 import "../styles/globals.css";
-import Head from "next/head";
+import "react-pdf/dist/umd/Page/AnnotationLayer.css";
 
 function MyApp({ Component, pageProps }) {
 	return (
 		<>
-			<Head>
-				<title>Create Next App</title>
-				<link rel="icon" href="/favicon.ico" />
-			</Head>
+			<Meta />
 			<Component {...pageProps} />
 		</>
 	);
