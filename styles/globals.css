@@ -14,14 +14,3 @@ a {
 * {
 	box-sizing: border-box;
 }
-
-.pdf-page {
-	width: 100vw;
-	max-width: 800px;
-	margin: 0 auto;
-}
-
-.pdf-page > svg {
-	height: auto !important;
-	width: 100% !important;
-}
