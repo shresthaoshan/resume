@@ -18,7 +18,10 @@ export default function Meta() {
 			<title>Resume - Oshan Shrestha</title>
 			<link rel="icon" href="/favicon.ico" />
 
-			<meta property="og:url" content="https://oshanshrestha.com.np" />
+			<meta
+				property="og:url"
+				content="https://resume.oshanshrestha.com.np"
+			/>
 			<meta property="og:title" content="Resume - Oshan Shrestha" />
 			<meta
 				property="og:description"
