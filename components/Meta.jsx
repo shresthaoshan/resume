@@ -31,7 +31,7 @@ export default function Meta() {
 			<meta property="og:title" content="Resume - Oshan Shrestha" />
 			<meta
 				property="og:description"
-				content="An enthusiastic undergrad looking for very first job to enter the field of software development &amp; engineering."
+				content="A skilled youth in the tech industry extremely motivated to make a change in the society."
 			/>
 			<meta
 				property="og:image"
@@ -42,7 +42,7 @@ export default function Meta() {
 			<meta property="twitter:title" content="Resume - Oshan Shrestha" />
 			<meta
 				property="twitter:description"
-				content="An enthusiastic undergrad looking for very first job to enter the field of software development &amp; engineering."
+				content="A skilled youth in the tech industry extremely motivated to make a change in the society."
 			/>
 			<meta
 				name="twitter:image"
